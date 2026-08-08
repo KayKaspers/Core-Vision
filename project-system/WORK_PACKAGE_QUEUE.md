@@ -54,7 +54,7 @@ Define ecosystem architecture, capability ownership, authority boundaries and pr
 
 **Type:** architecture / discovery
 **Priority:** P2
-**Status:** ACTIVE
+**Status:** COMPLETE
 
 ## Not authorized
 
@@ -63,3 +63,17 @@ Define ecosystem architecture, capability ownership, authority boundaries and pr
 - database selection
 - mandatory integrations
 - runtime dependency creation
+
+---
+
+## CV-WP-007 — Core Vision Software Architecture Definition & Technology Evaluation
+
+**Status:** ACTIVE
+
+**Priority:** P0
+
+**Type:** architecture-definition / technology-evaluation
+
+**Objective:** Convert the CV-WP-006 preferred discovery architecture into an explicit implementable architecture definition and evaluate candidate technologies against the established governance, authority, security, operability and portability requirements.
+
+**Guardrail:** CV-WP-006 architecture findings are discovery recommendations. CV-WP-007 must explicitly authorize or reject material architecture and technology choices through governed decisions or ADR candidates before implementation begins.

@@ -44,24 +44,30 @@ No fundamental ecosystem architecture conflict has been identified at Foundation
 
 ## Current priority
 
-CV-WP-006 — Core Vision Software Architecture Discovery
+CV-WP-007 — Core Vision Software Architecture Definition & Technology Evaluation
 ## Current work state
 
 - CV-WP-001 COMPLETE / FROZEN.
 - CV-WP-002 COMPLETE / FROZEN.
 - CV-WP-003 COMPLETE / FROZEN.
 - CV-WP-004 COMPLETE / FROZEN.
-- CV-WP-005 COMPLETE.
-- CV-WP-006 ACTIVE.
+- CV-WP-005 COMPLETE / FROZEN.
+- CV-WP-006 COMPLETE.
+- CV-WP-007 ACTIVE.
 - Ecosystem inventory and classification are established.
 - Ecosystem architecture, capability ownership and authority boundaries are established.
 - Project lifecycle, portfolio intake and cross-project governance are established.
-- Core integration classes, public-contract expectations and dependency governance are established.
-- Data/evidence flows preserve provenance, freshness semantics and source-domain authority.
-- Optional integration remains preferred; mandatory Core-to-Core dependencies are exceptional.
-- Bootstrap cycles and hidden cross-project implementation coupling remain prohibited.
-- Core Vision remains outside the mandatory runtime path.
-- CV-WP-006 owns discovery of the future Core Vision software architecture without preselecting an implementation stack.
+- Core integration classes, public-contract expectations, data/evidence semantics and integration governance are established.
+- Core Vision software responsibilities are discovered and bounded.
+- Deterministic rules, AI analysis and Human authorization are semantically separated.
+- Canonical Core Vision governance state is separated from external authority, evidence, derived state, AI analysis, recommendation, proposed effect and history.
+- CV-WP-006 preferred architecture is a Modular Governance Monolith.
+- CV-WP-006 preferred runtime posture is server-primary.
+- Both remain RECOMMENDED / NOT IMPLEMENTATION AUTHORIZED.
+- Selected auxiliary workers remain an evidence-driven future evolution option.
+- Distributed capability services are not currently justified.
+- Technology stack remains UNSELECTED.
+- CV-WP-007 must formally define the software architecture and evaluate candidate technologies against the established governance requirements before implementation begins.
 ## Planned next work
 
 - CV-WP-002 ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Core Ecosystem Inventory & Classification
