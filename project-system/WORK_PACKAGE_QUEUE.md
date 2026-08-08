@@ -48,13 +48,13 @@ Define ecosystem architecture, capability ownership, authority boundaries and pr
 
 **Type:** docs-only / architecture
 **Priority:** P1
-**Status:** ACTIVE
+**Status:** COMPLETE
 
 ### CV-WP-006 — Core Vision Software Architecture Discovery
 
 **Type:** architecture / discovery
 **Priority:** P2
-**Status:** QUEUED
+**Status:** ACTIVE
 
 ## Not authorized
 

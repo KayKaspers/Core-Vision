@@ -44,24 +44,24 @@ No fundamental ecosystem architecture conflict has been identified at Foundation
 
 ## Current priority
 
-CV-WP-005 — Integration Model
+CV-WP-006 — Core Vision Software Architecture Discovery
 ## Current work state
 
 - CV-WP-001 COMPLETE / FROZEN.
 - CV-WP-002 COMPLETE / FROZEN.
 - CV-WP-003 COMPLETE / FROZEN.
-- CV-WP-004 COMPLETE.
-- CV-WP-005 ACTIVE.
-- Ecosystem inventory and classification baseline established.
-- Ecosystem architecture, capability ownership, authority boundaries and dependency rules established.
-- Project lifecycle and portfolio relationship are governed as separate axes.
-- Portfolio intake is evidence-based and fail-closed on material uncertainty.
-- Permanent portfolio admission requires explicit Human Maintainer authorization.
-- Cross-project governance requires an explicit Decision Owner.
-- Consultation and evidence provision do not imply authority.
-- Authority collisions fail closed pending explicit governance resolution.
-- Project-local implementation and domain authority remain preserved.
-- CV-WP-005 owns definition of the Core ecosystem integration model.
+- CV-WP-004 COMPLETE / FROZEN.
+- CV-WP-005 COMPLETE.
+- CV-WP-006 ACTIVE.
+- Ecosystem inventory and classification are established.
+- Ecosystem architecture, capability ownership and authority boundaries are established.
+- Project lifecycle, portfolio intake and cross-project governance are established.
+- Core integration classes, public-contract expectations and dependency governance are established.
+- Data/evidence flows preserve provenance, freshness semantics and source-domain authority.
+- Optional integration remains preferred; mandatory Core-to-Core dependencies are exceptional.
+- Bootstrap cycles and hidden cross-project implementation coupling remain prohibited.
+- Core Vision remains outside the mandatory runtime path.
+- CV-WP-006 owns discovery of the future Core Vision software architecture without preselecting an implementation stack.
 ## Planned next work
 
 - CV-WP-002 ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Core Ecosystem Inventory & Classification
