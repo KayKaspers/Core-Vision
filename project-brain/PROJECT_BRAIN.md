@@ -44,35 +44,20 @@ No fundamental ecosystem architecture conflict has been identified at Foundation
 
 ## Current priority
 
-CV-WP-003 — Core Ecosystem Architecture & Boundaries
+CV-WP-004 — Project Lifecycle, Intake & Cross-Project Governance
 ## Current work state
 
-CV-WP-002 is COMPLETE.
-
-CV-WP-003 is ACTIVE.
-
-CV-WP-002 established the first controlled Core ecosystem inventory.
-
-Baseline classifications:
-
-- Core Vision: T0 / Ecosystem Governance
-- NDF: T1 / Development Governance
-- Core Brain: T1 / Knowledge & Evidence Plane
-- Core Design System: T1 / Design & Brand Foundation
-- Core-Dev: T2 / Engineering Control Plane
-- CoreOps: T3 / Operations Control Plane
-- SpeakCore: T4 / Product
-- CastCore: T4 / Product
-- SC-OrgaBase: T4 / Product
-- Core Document Framework: Conditional Exploration / Portfolio Candidate
-- OrgaCore: Observed Candidate
-- AirCore: Observed Candidate
-- Nova Development Kit: Legacy Reference
-- SC-Industrie-Kompendium: Legacy Reference
-
-Core-Dev has no dedicated repository identified. This is an accepted explicit inventory state.
-
-CV-WP-003 now owns detailed capability, architecture and authority-boundary definition.
+- CV-WP-001 COMPLETE / FROZEN.
+- CV-WP-002 COMPLETE / FROZEN.
+- CV-WP-003 COMPLETE.
+- CV-WP-004 ACTIVE.
+- Ecosystem inventory and classification baseline established.
+- Ecosystem architecture, capability ownership, authority boundaries and dependency rules established.
+- Core Brain knowledge/evidence authority is separated from CoreOps operational authority.
+- CDS design-system authority is bounded from product and document-domain semantics.
+- Core-Dev and CoreOps remain separate Engineering and Operations Control Planes.
+- CDF remains Conditional Exploration without permanent portfolio authority.
+- CV-WP-004 owns lifecycle, intake and cross-project governance definition.
 ## Planned next work
 
 - CV-WP-002 ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Core Ecosystem Inventory & Classification

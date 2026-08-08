@@ -28,7 +28,7 @@ Create the first controlled inventory and classification of the Core ecosystem.
 
 **Type:** docs-only / architecture
 **Priority:** P0
-**Status:** ACTIVE
+**Status:** COMPLETE
 
 Purpose:
 
@@ -42,7 +42,7 @@ Define ecosystem architecture, capability ownership, authority boundaries and pr
 
 **Type:** docs-only / governance
 **Priority:** P1
-**Status:** QUEUED
+**Status:** ACTIVE
 
 ### CV-WP-005 — Ecosystem Integration Model
 
