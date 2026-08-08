@@ -155,11 +155,11 @@ CV-WP-008 — Implementation Bootstrap Definition & Readiness Gates
 
 CV-WP-008 State:
 
-PLANNED
+ACTIVE
 
 CV-WP-008 Activation:
 
-NOT YET AUTHORIZED
+AUTHORIZED
 
 Lessons Learned Candidates:
 
@@ -169,5 +169,66 @@ Lessons Learned Candidates:
 Lessons Learned Backflow:
 
 CANDIDATE / BATCH LATER
+
+Knowledge can be centralized, authority not.
+## CV-WP-008 Activation Reconciliation
+
+Activation Date:
+
+2026-08-09
+
+CV-WP-008:
+
+ACTIVE
+
+Activation Review:
+
+PASS
+
+Human Maintainer Activation:
+
+EXPLICIT
+
+Authorized Scope:
+
+DEFINITION / MAPPING / READINESS ONLY
+
+Architecture:
+
+ADOPTED
+
+Technology Baseline:
+
+ADOPTED
+
+Implementation Gate:
+
+CLOSED
+
+Implementation:
+
+NOT AUTHORIZED
+
+Gate H:
+
+NOT AUTHORIZED
+
+Permitted current work includes:
+
+- implementation bootstrap definition
+- solution/project mapping
+- dependency-direction design
+- canonical mutation design
+- persistence design
+- identity and authorization design
+- deterministic-rule design
+- AI isolation design
+- security bootstrap design
+- testing design
+- deployment-topology design
+- recovery design
+- implementation-readiness preparation
+
+Current work does not include source-code implementation or deployment.
 
 Knowledge can be centralized, authority not.

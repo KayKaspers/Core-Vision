@@ -2,7 +2,7 @@
 
 ## Status
 
-PLANNED
+ACTIVE
 
 ## Purpose
 
@@ -241,7 +241,7 @@ PLANNED
 
 Activation:
 
-NOT YET AUTHORIZED
+AUTHORIZED
 
 Implementation:
 
@@ -252,5 +252,79 @@ The Human Maintainer must explicitly authorize activation of CV-WP-008.
 The implementation gate remains separate even after CV-WP-008 activation.
 
 ## Authority invariant
+
+Knowledge can be centralized, authority not.
+## Activation Record
+
+Activation Date:
+
+2026-08-09
+
+Activation Review:
+
+PASS
+
+Human Maintainer Activation:
+
+EXPLICIT
+
+Activation State:
+
+AUTHORIZED / ACTIVE
+
+Authorized Work Scope:
+
+- solution and project structure definition
+- module-to-project/package mapping
+- dependency-direction design
+- canonical mutation implementation design
+- persistence-boundary design
+- migration-strategy design
+- concurrency and idempotency design
+- identity bootstrap design
+- governance-authorization boundary design
+- deterministic-rule module design
+- AI provider-port design
+- secret/configuration boundary design
+- observability bootstrap design
+- background-execution design
+- test architecture design
+- local-development posture design
+- deployment-topology design
+- backup/restore design
+- implementation-readiness checklist
+- implementation authorization preparation
+
+Explicitly Not Authorized:
+
+- application source-code implementation
+- dotnet new project creation
+- dependency installation
+- database schema implementation
+- migration execution
+- container build
+- deployment
+- production environment creation
+- credential creation
+- AI-provider credential configuration
+- external integration activation
+
+Implementation Gate:
+
+CLOSED
+
+Implementation:
+
+NOT AUTHORIZED
+
+Gate H:
+
+NOT AUTHORIZED
+
+Human Implementation Authorization:
+
+REQUIRED LATER
+
+Activation does not itself authorize implementation.
 
 Knowledge can be centralized, authority not.

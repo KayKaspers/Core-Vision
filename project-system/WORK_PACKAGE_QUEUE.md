@@ -105,11 +105,11 @@ CV-WP-008 — Implementation Bootstrap Definition & Readiness Gates
 
 CV-WP-008:
 
-PLANNED
+ACTIVE
 
 CV-WP-008 Activation:
 
-NOT YET AUTHORIZED
+AUTHORIZED
 
 Implementation Gate:
 
@@ -118,3 +118,44 @@ CLOSED
 This reconciliation is the current queue state for CV-WP-007 and CV-WP-008.
 
 Any earlier CV-WP-007 ACTIVE state is superseded by this closure record.
+## CV-WP-008 Activation Reconciliation
+
+Activation Date:
+
+2026-08-09
+
+CV-WP-008:
+
+ACTIVE
+
+Activation Review:
+
+PASS
+
+Human Maintainer Activation:
+
+EXPLICIT
+
+Activation:
+
+AUTHORIZED
+
+Authorized Scope:
+
+DEFINITION / MAPPING / READINESS ONLY
+
+Implementation Gate:
+
+CLOSED
+
+Implementation:
+
+NOT AUTHORIZED
+
+Gate H:
+
+NOT AUTHORIZED
+
+CV-WP-008 activation does not authorize source-code implementation.
+
+This activation record supersedes the previous CV-WP-008 PLANNED / NOT YET AUTHORIZED state.
