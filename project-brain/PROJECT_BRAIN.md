@@ -44,20 +44,24 @@ No fundamental ecosystem architecture conflict has been identified at Foundation
 
 ## Current priority
 
-CV-WP-004 — Project Lifecycle, Intake & Cross-Project Governance
+CV-WP-005 — Integration Model
 ## Current work state
 
 - CV-WP-001 COMPLETE / FROZEN.
 - CV-WP-002 COMPLETE / FROZEN.
-- CV-WP-003 COMPLETE.
-- CV-WP-004 ACTIVE.
+- CV-WP-003 COMPLETE / FROZEN.
+- CV-WP-004 COMPLETE.
+- CV-WP-005 ACTIVE.
 - Ecosystem inventory and classification baseline established.
 - Ecosystem architecture, capability ownership, authority boundaries and dependency rules established.
-- Core Brain knowledge/evidence authority is separated from CoreOps operational authority.
-- CDS design-system authority is bounded from product and document-domain semantics.
-- Core-Dev and CoreOps remain separate Engineering and Operations Control Planes.
-- CDF remains Conditional Exploration without permanent portfolio authority.
-- CV-WP-004 owns lifecycle, intake and cross-project governance definition.
+- Project lifecycle and portfolio relationship are governed as separate axes.
+- Portfolio intake is evidence-based and fail-closed on material uncertainty.
+- Permanent portfolio admission requires explicit Human Maintainer authorization.
+- Cross-project governance requires an explicit Decision Owner.
+- Consultation and evidence provision do not imply authority.
+- Authority collisions fail closed pending explicit governance resolution.
+- Project-local implementation and domain authority remain preserved.
+- CV-WP-005 owns definition of the Core ecosystem integration model.
 ## Planned next work
 
 - CV-WP-002 ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Core Ecosystem Inventory & Classification

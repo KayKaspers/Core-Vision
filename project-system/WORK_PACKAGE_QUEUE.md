@@ -42,13 +42,13 @@ Define ecosystem architecture, capability ownership, authority boundaries and pr
 
 **Type:** docs-only / governance
 **Priority:** P1
-**Status:** ACTIVE
+**Status:** COMPLETE
 
 ### CV-WP-005 — Ecosystem Integration Model
 
 **Type:** docs-only / architecture
 **Priority:** P1
-**Status:** QUEUED
+**Status:** ACTIVE
 
 ### CV-WP-006 — Core Vision Software Architecture Discovery
 
