@@ -1,0 +1,47 @@
+project:
+  name: "Core Vision"
+  slug: "core-vision"
+  status: "foundation"
+  maturity: "greenfield"
+  visibility: "undecided"
+
+classification:
+  type: "ecosystem-governance"
+  role: "ecosystem-control-plane"
+  ndf_level: 2
+
+governance:
+  framework: "Nova Development Framework"
+  human_approval_required: true
+  irreversible_ai_decisions_allowed: false
+
+scope:
+  owns:
+    - ecosystem-strategy
+    - portfolio-governance
+    - cross-project-architecture
+    - capability-boundaries
+    - technology-radar
+    - strategic-roadmap
+    - cross-project-decisions
+    - strategic-risk-governance
+
+  does_not_own:
+    - development-governance
+    - engineering-orchestration
+    - knowledge-authority
+    - runtime-operations
+    - infrastructure-management
+    - product-specific-runtime-authority
+
+ecosystem_principles:
+  - standalone-first
+  - public-interface-first
+  - no-implicit-first-party-trust
+  - graceful-absence
+  - no-bootstrap-cycles
+  - authority-preservation
+
+software:
+  implementation_authorized: false
+  architecture_discovery_planned: true
