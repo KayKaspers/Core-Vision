@@ -1,45 +1,56 @@
-# Core Vision Ã¢â‚¬â€ Work Package Queue
+# Core Vision — Work Package Queue
 
 ## Completed
-### CV-WP-001 Ã¢â‚¬â€ Core Vision Project Bootstrap
+
+### CV-WP-001 — Core Vision Project Bootstrap
 
 **Type:** docs-only / project initialization
 **Priority:** P0
 **Status:** COMPLETE
 
+---
+
+### CV-WP-002 — Core Ecosystem Inventory & Classification
+
+**Type:** docs-only / ecosystem inventory
+**Priority:** P0
+**Status:** COMPLETE
+
 Purpose:
 
-Create the initial NDF-controlled Core Vision repository and Foundation documentation without starting application implementation.
+Create the first controlled inventory and classification of the Core ecosystem.
+
+---
+
+## Active
+
+### CV-WP-003 — Core Ecosystem Architecture & Boundaries
+
+**Type:** docs-only / architecture
+**Priority:** P0
+**Status:** ACTIVE
+
+Purpose:
+
+Define ecosystem architecture, capability ownership, authority boundaries and prohibited coupling between Core projects.
 
 ---
 
 ## Queued
 
-### CV-WP-002 Ã¢â‚¬â€ Core Ecosystem Inventory & Classification
-
-**Type:** docs-only
-**Priority:** P0
-**Status:** QUEUED
-
-### CV-WP-003 Ã¢â‚¬â€ Core Ecosystem Architecture & Boundaries
-
-**Type:** docs-only / architecture
-**Priority:** P0
-**Status:** QUEUED
-
-### CV-WP-004 Ã¢â‚¬â€ Project Lifecycle, Intake & Cross-Project Governance
+### CV-WP-004 — Project Lifecycle, Intake & Cross-Project Governance
 
 **Type:** docs-only / governance
 **Priority:** P1
 **Status:** QUEUED
 
-### CV-WP-005 Ã¢â‚¬â€ Ecosystem Integration Model
+### CV-WP-005 — Ecosystem Integration Model
 
 **Type:** docs-only / architecture
 **Priority:** P1
 **Status:** QUEUED
 
-### CV-WP-006 Ã¢â‚¬â€ Core Vision Software Architecture Discovery
+### CV-WP-006 — Core Vision Software Architecture Discovery
 
 **Type:** architecture / discovery
 **Priority:** P2

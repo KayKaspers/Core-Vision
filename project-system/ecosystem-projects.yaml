@@ -1,0 +1,177 @@
+schema_version: "0.2"
+status: "foundation-draft"
+snapshot_date: "2026-08-08"
+
+tiers:
+  T0: "Ecosystem Governance"
+  T1: "Foundations"
+  T2: "Engineering"
+  T3: "Operations"
+  T4: "Products"
+  TBD: "Pending classification"
+
+projects:
+
+  - id: "core-vision"
+    name: "Core Vision"
+    membership: "confirmed"
+    tier: "T0"
+    role: "Ecosystem Strategy, Portfolio & Architecture Governance"
+    alignment: "self"
+    lifecycle: "foundation"
+    repository:
+      state: "verified-private"
+      full_name: "KayKaspers/Core-Vision"
+
+  - id: "ndf"
+    name: "Nova Development Framework"
+    membership: "confirmed"
+    tier: "T1"
+    role: "Development Governance Framework"
+    alignment: "confirmed"
+    lifecycle: "active"
+    repository:
+      state: "verified-public"
+      full_name: "KayKaspers/Nova-Development-Framework"
+
+  - id: "core-brain"
+    name: "Core Brain"
+    current_project: "Core-Brain-Pilot"
+    membership: "confirmed"
+    tier: "T1"
+    role: "Knowledge & Evidence Plane"
+    alignment: "confirmed"
+    lifecycle: "pilot"
+    repository:
+      state: "verified-public"
+      full_name: "KayKaspers/Core-Brain-Pilot"
+
+  - id: "core-design-system"
+    name: "Core Design System"
+    membership: "confirmed"
+    tier: "T1"
+    role: "Design & Brand Foundation"
+    alignment: "pending"
+    lifecycle: "active"
+    repository:
+      state: "verified-public"
+      full_name: "KayKaspers/Core-Design-System"
+
+  - id: "core-document-framework"
+    name: "Core Document Framework"
+    membership: "observed-candidate"
+    portfolio_status: "conditional-exploration"
+    tier: "TBD"
+    role: "Foundation Candidate / Document Framework Exploration"
+    alignment: "pending"
+    lifecycle: "conditional-exploration"
+    repository:
+      state: "verified-public"
+      full_name: "KayKaspers/Core-Document-Framework"
+    note: "Permanent portfolio admission remains a Core Vision decision."
+
+  - id: "core-dev"
+    name: "Core-Dev"
+    membership: "confirmed"
+    tier: "T2"
+    role: "Engineering Control Plane"
+    alignment: "confirmed"
+    lifecycle: "active"
+    repository:
+      state: "not-identified"
+      full_name: null
+    note: "No dedicated local or GitHub repository was identified during CV-WP-002 discovery."
+
+  - id: "coreops"
+    name: "CoreOps"
+    membership: "confirmed"
+    tier: "T3"
+    role: "Operations Control Plane"
+    alignment: "confirmed"
+    lifecycle: "active"
+    repository:
+      state: "verified-public"
+      full_name: "KayKaspers/CoreOps"
+
+  - id: "speakcore"
+    name: "SpeakCore"
+    membership: "confirmed"
+    tier: "T4"
+    role: "Product"
+    alignment: "pending"
+    lifecycle: "active"
+    repository:
+      state: "verified-public"
+      full_name: "KayKaspers/SpeakCore"
+
+  - id: "castcore"
+    name: "CastCore"
+    membership: "confirmed"
+    tier: "T4"
+    role: "Product"
+    alignment: "pending"
+    lifecycle: "active"
+    repository:
+      state: "verified-public"
+      full_name: "KayKaspers/CastCore"
+
+  - id: "sc-orgabase"
+    name: "SC-OrgaBase"
+    membership: "confirmed"
+    tier: "T4"
+    role: "Star Citizen Organisation Platform"
+    alignment: "pending"
+    lifecycle: "active"
+    repository:
+      state: "verified-private"
+      full_name: "KayKaspers/sc-orgabase"
+      local_path: "D:\\Projects\\SC-OrgaBase"
+      observed_head: "6e84637"
+    note: "Repository identity resolved during CV-WP-002."
+
+observed:
+
+  - id: "orgacore"
+    name: "OrgaCore"
+    membership: "observed-candidate"
+    tier: "TBD"
+    lifecycle: "empty-repository"
+    repository:
+      state: "verified-public-empty"
+      full_name: "KayKaspers/OrgaCore"
+    note: "No relationship to SC-OrgaBase is assumed."
+
+  - id: "aircore"
+    name: "AirCore"
+    membership: "observed-candidate"
+    tier: "TBD"
+    lifecycle: "empty-repository"
+    repository:
+      state: "verified-public-empty"
+      full_name: "KayKaspers/AirCore"
+    note: "No ecosystem role or authority has been assigned."
+
+legacy_references:
+
+  - id: "ndk"
+    name: "Nova Development Kit"
+    short_name: "NDK"
+    membership: "legacy-reference"
+    tier: "TBD"
+    role: "Historical Development Toolkit"
+    lifecycle: "legacy-local"
+    repository:
+      state: "local-verified-remote-unresolved"
+      local_path: "D:\\Projects\\NDK"
+      configured_remote: "KayKaspers/nova-development-kit"
+      observed_head: "4240266"
+    note: "NDK is not Core-Dev and holds no current development-governance or engineering-control-plane authority."
+
+  - id: "sc-industrie-kompendium"
+    name: "SC-Industrie-Kompendium"
+    membership: "legacy-reference"
+    tier: "TBD"
+    lifecycle: "archived"
+    repository:
+      state: "verified-public-archived"
+      full_name: "KayKaspers/SC-Industrie-Kompendium"
