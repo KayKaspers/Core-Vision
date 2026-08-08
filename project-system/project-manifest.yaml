@@ -3,7 +3,7 @@ project:
   slug: "core-vision"
   status: "foundation"
   maturity: "greenfield"
-  visibility: "undecided"
+  visibility: "private"
 
 classification:
   type: "ecosystem-governance"
